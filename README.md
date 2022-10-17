@@ -10,7 +10,7 @@ example
 <img x-data="{source : generateAvatar('John Doe')}" x-bind:src="source" alt="">
 ```
 
-[John Doe](john doe.png)
+![John Doe](john doe.png)
 
 example alpine js with laravel
 
