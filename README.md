@@ -1,5 +1,5 @@
 # generateAvatarJS
-Generating avatar based on intial username
+Generating avatar based on initial username
 
 
 ## Using Alpine JS
