@@ -1,6 +1,15 @@
 # generateAvatarJS
 Generating avatar based on initial username
 
+```
+<img src="" alt="" id="avatar1">
+```
+
+script
+```
+document.getElementById("avatar1").src = generateAvatar("John Doe");
+```
+
 
 ## Using Alpine JS
 
